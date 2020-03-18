@@ -1,0 +1,71 @@
+body{
+    background-color: #2B2B2B !important;
+}
+.navbar{
+    background-color: black !important;
+}
+.active{
+    text-decoration: underline !important;
+}
+.nav-link:hover{
+    text-decoration: underline !important;
+}
+.title-jb{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 12px;
+}
+
+.tour{
+    background-color: black !important;
+}
+.soldout{
+    background-color: white;
+}
+.datediv{
+    text-align: center;
+}
+.date-soldout{
+    text-decoration: line-through;
+}
+mark{
+    color: white;
+    background-color: red !important;
+}
+.date .date-soldout{
+    text-transform: uppercase !important;
+}
+.card{
+    background-color: black !important;
+}
+header{
+    text-transform: uppercase;
+}
+.book{
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: underline;
+}
+.book:hover{
+    background-color: blue;
+    color: white;
+}
+.date{
+    letter-spacing: 10px;
+}
+.date-soldout{
+    letter-spacing: 10px;
+}
+a{
+    letter-spacing: 0px;
+}
+* ::selection{
+    background-color: red;
+    color: black;
+}
+.title-jb:hover{
+    color: white;
+}
